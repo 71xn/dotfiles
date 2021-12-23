@@ -18,3 +18,4 @@
 2. Copy `material.omp.json` to ` ~\AppData\Local\Programs\oh-my-posh\themes\`
 3. Copy `prompt.ps1` to `~\Documents\WindowsPowerShell`
 4. Overwrite your Windows Terminal settings with `settings.json`
+    * *First ensure that you have the `fonts`, `oh-my-posh`, and `git` installed. This will all be installed if you use the import script listed above.*
