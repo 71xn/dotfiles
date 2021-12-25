@@ -1,0 +1,1 @@
+foreach($line in get-content extensions.list) {code --install-extension $($line)}
